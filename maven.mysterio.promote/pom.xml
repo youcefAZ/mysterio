@@ -19,11 +19,11 @@
 
 
 	<dependencies>
-	<!-- <dependency> -->
-	<!-- <groupId>com.fastcube.tibco.Its.new_app.mysterio</groupId> -->
-	<!-- <artifactId>bw.app.application</artifactId> -->
-	<!-- <version>${project.version}</version> -->
-	<!-- <type>ear</type> -->
-	<!-- </dependency> -->
-	</dependencies>
+            <dependency>
+                <groupId>com.fastcube.tibco.Its.new_app.mysterio</groupId>
+                <artifactId>bw.mc-mysterio.application</artifactId>
+                <version>${project.version}</version>
+                <type>ear</type>
+            </dependency>
+        </dependencies>
 </project>
